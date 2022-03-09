@@ -16,7 +16,7 @@ ID	NAME	POLICY	STATUS
 18	Widespace AB	https://www.widespace.com/legal/privacy-policy-notice/	200
 20	N Technologies Inc.	https://n.rich/privacy-notice	200
 21	The Trade Desk	https://www.thetradedesk.com/general/privacy-policy	200
-22	admetrics GmbH	https://admetrics.io/en/privacy_policy/	200
+22	admetrics GmbH	https://admetrics.io/en/privacy_policy/	error
 23	Amobee Inc.	https://www.amobee.com/trust/gdpr/	200
 24	Epsilon	https://www.epsilon.com/emea/privacy-policy	200
 25	Yahoo EMEA Limited	https://legal.yahoo.com/ie/en/yahoo/privacy/index.html	200
@@ -344,7 +344,7 @@ ID	NAME	POLICY	STATUS
 516	Pexi B.V.	https://pexi.nl/privacy-policy/	200
 517	SunMedia	https://www.sunmedia.tv/en/cookies	200
 519	Newsroom AI Ltd	https://studio.nws.ai/privacy	200
-520	ChannelSight	https://www.channelsight.com/privacypolicy/	200
+520	ChannelSight	https://www.channelsight.com/privacypolicy/	error
 521	netzeffekt GmbH	https://www.netzeffekt.de/en/imprint	200
 524	The Ozone Project Limited	https://www.ozoneproject.com/website-privacy-cookie	200
 527	Jampp LTD	https://jampp.com/privacy.html	200
@@ -412,7 +412,7 @@ ID	NAME	POLICY	STATUS
 638	Passendo Aps	https://passendo.com/users-privacy-policy	200
 639	Smile Wanted Group	https://www.smilewanted.com/privacy.php	200
 644	Gamoshi Ltd	https://www.gamoshi.com/privacy-policy	200
-645	Noster Finance S.L.	https://www.finect.com/terminos-legales/politica-de-cookies	200
+645	Noster Finance S.L.	https://www.finect.com/terminos-legales/politica-de-cookies	502
 646	Notify	https://notify-group.com/en/mentions-legales/	200
 647	Axel Springer Teaser Ad GmbH	https://www.adup-tech.com/privacy	200
 648	TrueData Solutions, Inc.	https://www.truedata.co/privacy-policy/	200
@@ -624,13 +624,13 @@ ID	NAME	POLICY	STATUS
 874	PRECISO SRL	https://preciso.net/privacy/	200
 875	cynapsis interactive GmbH	https://cynapsis.de/impressum/index.html#datenschutz_d	200
 876	3Q nexx GmbH	https://3q.video/de/datenschutz_und_richtlinien	200
-877	Experian Limited	https://www.experian.co.uk/privacy/consumer-information-portal/	200
+877	Experian Limited	https://www.experian.co.uk/privacy/consumer-information-portal/	504
 878	Natív Hirdetés Korlátolt Felelősségű Társaság	https://related.hu/adatkezeles/	200
 879	Vidstart LTD	https://www.vidstart.com/wp-content/uploads/2018/09/PrivacyPolicyPDF-Vidstart.pdf	200
 880	Quantyoo GmbH &amp; Co. KG	https://quantyoo.de/datenschutz	200
 881	Hillside (Sports) GP Limited	https://www.bet365affiliates.com/UI/Pages/Affiliates/Affiliates.aspx?ContentPath=%2fAffiliates%2fv2_Root%2finformationPages%2fPrivacyPolicy	200
 882	NumberEight Technologies Ltd	https://www.numbereight.ai/privacy	200
-883	Online Media Solutions LTD (BDA: Brightcom)	https://www.brightcom.com/privacy-policy/	200
+883	Online Media Solutions LTD (BDA: Brightcom)	https://www.brightcom.com/privacy-policy/	error
 884	Listonic Sp. z o.o.	https://listonic.com/privacy/	200
 885	Dianomi PLC	https://www.dianomi.com/legal/privacy.epl	200
 886	Remixd Media, Inc.	https://www.remixd.com/privacy_policy.html	200
